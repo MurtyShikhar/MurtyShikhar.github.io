@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Talk at AI2 titled "Understanding and Improving Generalization in Transformers"
+Talks at AI2 + UW titled "Understanding and Improving Generalization in Transformers"
